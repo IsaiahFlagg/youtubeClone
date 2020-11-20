@@ -214,3 +214,14 @@ body {
     height: 36px;
     background-color: #AAA;
 }
+
+#video-header {
+    border-bottom: 1px solid #999;
+    
+}
+
+/* .navbar {
+ max-width: 100px !important;   
+ /* font-size: 10px !important; */
+ /* padding-left: 0 !important;
+} */
